@@ -5,8 +5,10 @@
 🔗 LinkedIn: [Michael Idan](https://www.linkedin.com/in/michael-idan-6270a1193)
 
 ---
-
+<div>
+  
 ![Profile views](https://gpvc.arturio.dev/michaelidan) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelidan&show_icons=true&count_private=true&hide=contribs,issues&theme=radical) ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelidan&theme=dark)
+</div>
 
 ---
 
